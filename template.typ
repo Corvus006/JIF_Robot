@@ -4,8 +4,9 @@
     margin: (left:25mm,right:25mm,top:25mm,bottom:20mm),
     number-align: center,
     numbering: "1",
-    bibliography("bib.yml",style: "mla"),
   )
+  set heading(numbering: "1.1")
+
   set text(
       font:"Arial",
       size: 12pt,
@@ -19,5 +20,4 @@
       marker: ([•],[--])
   )
   doc
-  bibliography("bib.yml")
 }
