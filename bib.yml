@@ -5,3 +5,16 @@ mechatronics:
   url:
     value: https://howtomechatronics.com/projects/fully-3d-printed-tank-tracked-robot-platform/
     date: 2024-01-20
+microros:
+  type: Web
+  publisher: micro-ROS
+  title: "First micro-ROS Application on FreeRTOS"
+  url:
+    value: https://micro.ros.org/docs/tutorials/core/first_application_rtos/freertos
+diffdrive:
+  type: Web
+  publisher: Reinbert
+  title: "ros_esp32cam_diffdrive"
+  url:
+    value: https://github.com/Reinbert/ros_esp32cam_diffdrive
+    date: 2024-01-25
